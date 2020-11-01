@@ -1,6 +1,4 @@
-const ids = {
+module.exports = {
   NATURAL: 1,
   SYNTHETIC: 2,
 };
-
-export default ids;

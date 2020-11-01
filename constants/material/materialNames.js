@@ -1,8 +1,6 @@
-import ids from './materialIds';
+const { NATURAL, SYNTHETIC } = require('./materialIds');
 
-const { NATURAL, SYNTHETIC } = ids;
-
-export default {
+module.exports = {
   [NATURAL]: 'Натуральний',
   [SYNTHETIC]: 'Синтетичний',
 };

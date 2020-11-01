@@ -1,4 +1,4 @@
-const ids = {
+module.exports = {
   WIG: 1,
   WEAVE: 2,
   TAIL: 3,
@@ -8,6 +8,4 @@ const ids = {
   BANGS: 7,
   SCRUNCHY: 8,
   STRIP: 9,
-};
-
-export default ids;
+}

@@ -1,8 +1,6 @@
-import ids from './producerIds';
+const { CHINA, JAPAN, KOREA } = require('./producerIds');
 
-const { CHINA, JAPAN, KOREA } = ids;
-
-export default {
+module.exports = {
   [CHINA]: 'Китай',
   [JAPAN]: 'Японія',
   [KOREA]: 'Корея'

@@ -1,4 +1,4 @@
-const ids = {
+module.exports = {
   LIGHT: 1,
   DARK: 2,
   RED: 3,
@@ -6,7 +6,6 @@ const ids = {
   HIGHLIGHTS_LIGHT: 5,
   HIGHLIGHTS_DARK: 6,
   AMBRE: 7,
-  LIGHT_BLOND: 8,
-  DARK_BLOND: 9,
+  DARK_BLOND: 8,
+  LIGHT_BLOND: 9,
 };
-export default ids;

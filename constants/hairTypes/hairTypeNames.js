@@ -1,10 +1,8 @@
-import ids from './hairTypeIds';
-
 const {
   HAIR_EXTENSION, KANEKALON, TAIL, WEAVE, WIG, BANGS, NAKLADKA, SCRUNCHY, STRIP,
-} = ids;
+} = require('./hairTypeIds');
 
-export default {
+module.exports = {
   [HAIR_EXTENSION]: 'Нарощування',
   [KANEKALON]: 'Канікалон',
   [TAIL]: 'Хвіст',
