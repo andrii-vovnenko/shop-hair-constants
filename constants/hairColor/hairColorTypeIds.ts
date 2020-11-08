@@ -1,4 +1,4 @@
-module.exports = {
+export = {
   LIGHT: 1,
   DARK: 2,
   RED: 3,

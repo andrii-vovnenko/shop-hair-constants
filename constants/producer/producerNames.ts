@@ -1,6 +1,6 @@
 const { CHINA, JAPAN, KOREA } = require('./producerIds');
 
-module.exports = {
+export = {
   [CHINA]: 'Китай',
   [JAPAN]: 'Японія',
   [KOREA]: 'Корея'

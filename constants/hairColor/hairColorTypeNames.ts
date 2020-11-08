@@ -1,6 +1,6 @@
 const { AMBRE, DARK, HIGHLIGHTS, HIGHLIGHTS_DARK, HIGHLIGHTS_LIGHT, LIGHT, RED, DARK_BLOND, LIGHT_BLOND } = require('./hairColorTypeIds');
 
-module.exports =  {
+export =  {
   [AMBRE]: 'Амбре',
   [DARK]: 'Темний',
   [HIGHLIGHTS_LIGHT]: 'Міліровка світла',
