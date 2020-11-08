@@ -1,4 +1,4 @@
-export = {
+module.exports = {
   WIG: 1,
   WEAVE: 2,
   TAIL: 3,

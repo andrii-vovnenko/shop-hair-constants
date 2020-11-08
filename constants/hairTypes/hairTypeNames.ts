@@ -2,7 +2,7 @@ const {
   HAIR_EXTENSION, KANEKALON, TAIL, WEAVE, WIG, BANGS, NAKLADKA, SCRUNCHY, STRIP,
 } = require('./hairTypeIds');
 
-export = {
+module.exports = {
   [HAIR_EXTENSION]: 'Нарощування',
   [KANEKALON]: 'Канікалон',
   [TAIL]: 'Хвіст',

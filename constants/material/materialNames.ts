@@ -1,6 +1,6 @@
 const { NATURAL, SYNTHETIC } = require('./materialIds');
 
-export = {
+module.exports = {
   [NATURAL]: 'Натуральний',
   [SYNTHETIC]: 'Синтетичний',
 };
