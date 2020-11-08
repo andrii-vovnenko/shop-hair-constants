@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "dependencies": {
+    "typescript": "^4.0.5"
   },
   "scripts": {}
 }
