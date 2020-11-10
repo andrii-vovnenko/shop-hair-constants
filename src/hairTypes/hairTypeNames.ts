@@ -1,7 +1,6 @@
 import { BANGS, HAIR_EXTENSION, KANEKALON, NAKLADKA, SCRUNCHY, STRIP, TAIL, WEAVE, WIG } from "./hairTypeIds";
 
-
-module.exports = {
+export default {
   [HAIR_EXTENSION]: 'Нарощування',
   [KANEKALON]: 'Канікалон',
   [TAIL]: 'Хвіст',
