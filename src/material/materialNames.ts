@@ -1,4 +1,4 @@
-const { NATURAL, SYNTHETIC } = require('./materialIds');
+import {NATURAL, SYNTHETIC} from "./materialIds";
 
 module.exports = {
   [NATURAL]: 'Натуральний',

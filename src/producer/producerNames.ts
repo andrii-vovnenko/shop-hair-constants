@@ -1,4 +1,4 @@
-const { CHINA, JAPAN, KOREA } = require('./producerIds');
+import {CHINA, JAPAN, KOREA} from "./producerIds";
 
 module.exports = {
   [CHINA]: 'Китай',
