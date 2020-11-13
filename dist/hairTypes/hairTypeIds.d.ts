@@ -1,9 +1,0 @@
-export declare const WIG = 1;
-export declare const WEAVE = 2;
-export declare const TAIL = 3;
-export declare const KANEKALON = 4;
-export declare const HAIR_EXTENSION = 5;
-export declare const NAKLADKA = 6;
-export declare const BANGS = 7;
-export declare const SCRUNCHY = 8;
-export declare const STRIP = 9;
