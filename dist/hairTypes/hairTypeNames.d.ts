@@ -1,5 +1,5 @@
 import { BANGS, HAIR_EXTENSION, KANEKALON, NAKLADKA, SCRUNCHY, STRIP, TAIL, WEAVE, WIG } from "./hairTypeIds";
-declare const _default: {
+declare const hairTypeNames: {
     5: string;
     4: string;
     3: string;
@@ -10,4 +10,4 @@ declare const _default: {
     8: string;
     9: string;
 };
-export default _default;
+export default hairTypeNames;

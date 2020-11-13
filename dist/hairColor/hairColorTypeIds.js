@@ -10,4 +10,5 @@ exports.HIGHLIGHTS_DARK = 6;
 exports.AMBRE = 7;
 exports.DARK_BLOND = 8;
 exports.LIGHT_BLOND = 9;
+console.log(exports.LIGHT_BLOND);
 //# sourceMappingURL=hairColorTypeIds.js.map

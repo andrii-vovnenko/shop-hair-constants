@@ -8,4 +8,6 @@ export const AMBRE = 7
 export const DARK_BLOND = 8
 export const LIGHT_BLOND = 9
 
+console.log(LIGHT_BLOND);
+
 

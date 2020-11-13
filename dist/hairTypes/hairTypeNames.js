@@ -2,7 +2,7 @@
 var _a;
 Object.defineProperty(exports, "__esModule", { value: true });
 var hairTypeIds_1 = require("./hairTypeIds");
-exports.default = (_a = {},
+var hairTypeNames = (_a = {},
     _a[hairTypeIds_1.HAIR_EXTENSION] = 'Нарощування',
     _a[hairTypeIds_1.KANEKALON] = 'Канікалон',
     _a[hairTypeIds_1.TAIL] = 'Хвіст',
@@ -13,4 +13,5 @@ exports.default = (_a = {},
     _a[hairTypeIds_1.SCRUNCHY] = 'Резинка',
     _a[hairTypeIds_1.STRIP] = 'Полоска',
     _a);
+exports.default = hairTypeNames;
 //# sourceMappingURL=hairTypeNames.js.map
