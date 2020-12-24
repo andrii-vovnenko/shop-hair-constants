@@ -1,6 +1,7 @@
-const { AMBRE, DARK, HIGHLIGHTS, HIGHLIGHTS_DARK, HIGHLIGHTS_LIGHT, LIGHT, RED, DARK_BLOND, LIGHT_BLOND } = require('./hairColorTypeIds');
+// @ts-ignore
+import { AMBRE, DARK, HIGHLIGHTS, HIGHLIGHTS_DARK, HIGHLIGHTS_LIGHT, LIGHT, RED, DARK_BLOND, LIGHT_BLOND } from './hairColorTypeIds';
 
-module.exports =  {
+export default  {
   [AMBRE]: 'Амбре',
   [DARK]: 'Темний',
   [HIGHLIGHTS_LIGHT]: 'Міліровка світла',

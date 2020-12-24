@@ -1,5 +1,5 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+exports.__esModule = true;
 var hairColorTypeIds = {
     LIGHT: 1,
     DARK: 2,
@@ -9,9 +9,9 @@ var hairColorTypeIds = {
     HIGHLIGHTS_DARK: 6,
     AMBRE: 7,
     DARK_BLOND: 8,
-    LIGHT_BLOND: 9,
+    LIGHT_BLOND: 9
 };
-exports.default = hairColorTypeIds;
+exports["default"] = hairColorTypeIds;
 // export const LIGHT = 1
 // export const DARK = 2
 // export const RED = 3

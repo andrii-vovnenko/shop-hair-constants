@@ -1,14 +1,17 @@
+"use strict";
 var _a;
-var _b = require('./hairColorTypeIds'), AMBRE = _b.AMBRE, DARK = _b.DARK, HIGHLIGHTS = _b.HIGHLIGHTS, HIGHLIGHTS_DARK = _b.HIGHLIGHTS_DARK, HIGHLIGHTS_LIGHT = _b.HIGHLIGHTS_LIGHT, LIGHT = _b.LIGHT, RED = _b.RED, DARK_BLOND = _b.DARK_BLOND, LIGHT_BLOND = _b.LIGHT_BLOND;
-module.exports = (_a = {},
-    _a[AMBRE] = 'Амбре',
-    _a[DARK] = 'Темний',
-    _a[HIGHLIGHTS_LIGHT] = 'Міліровка світла',
-    _a[HIGHLIGHTS_DARK] = 'Міліровка темна',
-    _a[HIGHLIGHTS] = 'Міліровка',
-    _a[LIGHT] = 'Світлий',
-    _a[RED] = 'Рудий',
-    _a[LIGHT_BLOND] = 'Світло русий',
-    _a[DARK_BLOND] = 'Темно русий',
+exports.__esModule = true;
+// @ts-ignore
+var hairColorTypeIds_1 = require("./hairColorTypeIds");
+exports["default"] = (_a = {},
+    _a[hairColorTypeIds_1.AMBRE] = 'Амбре',
+    _a[hairColorTypeIds_1.DARK] = 'Темний',
+    _a[hairColorTypeIds_1.HIGHLIGHTS_LIGHT] = 'Міліровка світла',
+    _a[hairColorTypeIds_1.HIGHLIGHTS_DARK] = 'Міліровка темна',
+    _a[hairColorTypeIds_1.HIGHLIGHTS] = 'Міліровка',
+    _a[hairColorTypeIds_1.LIGHT] = 'Світлий',
+    _a[hairColorTypeIds_1.RED] = 'Рудий',
+    _a[hairColorTypeIds_1.LIGHT_BLOND] = 'Світло русий',
+    _a[hairColorTypeIds_1.DARK_BLOND] = 'Темно русий',
     _a);
 //# sourceMappingURL=hairColorTypeNames.js.map
