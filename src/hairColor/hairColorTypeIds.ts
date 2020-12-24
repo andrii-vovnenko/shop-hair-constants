@@ -1,4 +1,4 @@
-const hairColorTypeIds = {
+export default {
   LIGHT: 1,
   DARK: 2,
   RED: 3,
@@ -9,7 +9,7 @@ const hairColorTypeIds = {
   DARK_BLOND: 8,
   LIGHT_BLOND: 9,
 };
-export default hairColorTypeIds;
+
 // export const LIGHT = 1
 // export const DARK = 2
 // export const RED = 3

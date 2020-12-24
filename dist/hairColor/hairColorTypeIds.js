@@ -1,6 +1,6 @@
 "use strict";
 exports.__esModule = true;
-var hairColorTypeIds = {
+exports["default"] = {
     LIGHT: 1,
     DARK: 2,
     RED: 3,
@@ -11,7 +11,6 @@ var hairColorTypeIds = {
     DARK_BLOND: 8,
     LIGHT_BLOND: 9
 };
-exports["default"] = hairColorTypeIds;
 // export const LIGHT = 1
 // export const DARK = 2
 // export const RED = 3
