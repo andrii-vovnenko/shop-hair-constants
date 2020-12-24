@@ -1,12 +1,9 @@
-declare const hairColorTypeIds: {
-    LIGHT: number;
-    DARK: number;
-    RED: number;
-    HIGHLIGHTS: number;
-    HIGHLIGHTS_LIGHT: number;
-    HIGHLIGHTS_DARK: number;
-    AMBRE: number;
-    DARK_BLOND: number;
-    LIGHT_BLOND: number;
-};
-export default hairColorTypeIds;
+export declare const LIGHT = 1;
+export declare const DARK = 2;
+export declare const RED = 3;
+export declare const HIGHLIGHTS = 4;
+export declare const HIGHLIGHTS_LIGHT = 5;
+export declare const HIGHLIGHTS_DARK = 6;
+export declare const AMBRE = 7;
+export declare const DARK_BLOND = 8;
+export declare const LIGHT_BLOND = 9;

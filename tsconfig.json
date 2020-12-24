@@ -1,8 +1,13 @@
 {
   "compilerOptions": {
+    "declaration": true,
     "outDir": "dist",
-    "lib": ["es2016"],
-    "sourceMap": true
+    "lib": ["es2017", "es7", "es6", "dom"],
+    "sourceMap": true,
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
   },
   "include": [
     "src/**/*.ts"

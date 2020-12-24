@@ -10,7 +10,7 @@
 //   DARK_BLOND: 8,
 //   LIGHT_BLOND: 9,
 // };
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.LIGHT_BLOND = exports.DARK_BLOND = exports.AMBRE = exports.HIGHLIGHTS_DARK = exports.HIGHLIGHTS_LIGHT = exports.HIGHLIGHTS = exports.RED = exports.DARK = exports.LIGHT = void 0;
 exports.LIGHT = 1;
 exports.DARK = 2;

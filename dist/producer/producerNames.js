@@ -1,3 +1,4 @@
+"use strict";
 // import {CHINA, JAPAN, KOREA} from "./producerIds";
 //
 // module.exports = {

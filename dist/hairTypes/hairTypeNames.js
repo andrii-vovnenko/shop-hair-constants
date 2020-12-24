@@ -1,3 +1,4 @@
+"use strict";
 // import { BANGS, HAIR_EXTENSION, KANEKALON, NAKLADKA, SCRUNCHY, STRIP, TAIL, WEAVE, WIG } from "./hairTypeIds";
 //
 // const hairTypeNames = {

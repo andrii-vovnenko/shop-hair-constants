@@ -1,3 +1,4 @@
+"use strict";
 // const hairTypeIds = {
 //   WIG: 1,
 //   WEAVE: 2,

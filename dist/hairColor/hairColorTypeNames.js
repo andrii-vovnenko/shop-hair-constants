@@ -1,8 +1,8 @@
 "use strict";
 var _a;
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var hairColorTypeIds_1 = require("./hairColorTypeIds");
-exports["default"] = (_a = {},
+exports.default = (_a = {},
     _a[hairColorTypeIds_1.AMBRE] = 'Амбре',
     _a[hairColorTypeIds_1.DARK] = 'Темний',
     _a[hairColorTypeIds_1.HIGHLIGHTS_LIGHT] = 'Міліровка світла',
