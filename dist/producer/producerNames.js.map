@@ -1,1 +1,1 @@
-{"version":3,"file":"producerNames.js","sourceRoot":"","sources":["../../src/producer/producerNames.ts"],"names":[],"mappings":";AAAA,qDAAqD;AACrD,EAAE;AACF,qBAAqB;AACrB,sBAAsB;AACtB,uBAAuB;AACvB,qBAAqB;AACrB,KAAK"}
+{"version":3,"file":"producerNames.js","sourceRoot":"","sources":["../../src/producer/producerNames.ts"],"names":[],"mappings":";;;AAAA,6CAAoD;AAEpD;IACE,GAAC,mBAAK,IAAG,OAAO;IAChB,GAAC,mBAAK,IAAG,QAAQ;IACjB,GAAC,mBAAK,IAAG,OAAO;QAChB"}

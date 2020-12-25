@@ -1,15 +1,3 @@
-// export default {
-//   LIGHT: 1,
-//   DARK: 2,
-//   RED: 3,
-//   HIGHLIGHTS: 4,
-//   HIGHLIGHTS_LIGHT: 5,
-//   HIGHLIGHTS_DARK: 6,
-//   AMBRE: 7,
-//   DARK_BLOND: 8,
-//   LIGHT_BLOND: 9,
-// };
-
 export const LIGHT = 1
 export const DARK = 2
 export const RED = 3

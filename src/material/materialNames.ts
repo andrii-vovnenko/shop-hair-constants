@@ -1,6 +1,6 @@
-// import {NATURAL, SYNTHETIC} from "./materialIds";
-//
-// module.exports = {
-//   [NATURAL]: 'Натуральний',
-//   [SYNTHETIC]: 'Синтетичний',
-// };
+import { NATURAL, SYNTHETIC } from "./materialIds";
+
+export default {
+   [NATURAL]: 'Натуральний',
+   [SYNTHETIC]: 'Синтетичний',
+};

@@ -9,7 +9,7 @@
     "typescript": "^4.0.5"
   },
   "scripts": {
-    "build": "babel src --out-dir lib --extensions .ts,.tsx"
+    "build": "tsc"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
