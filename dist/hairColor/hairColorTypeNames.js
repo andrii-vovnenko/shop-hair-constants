@@ -13,4 +13,4 @@ exports.default = (_a = {},
     _a[hairColorTypeIds_1.LIGHT_BLOND] = 'Світло русий',
     _a[hairColorTypeIds_1.DARK_BLOND] = 'Темно русий',
     _a);
-# sourceMappingURL=hairColorTypeNames.js.map
+//# sourceMappingURL=hairColorTypeNames.js.map
